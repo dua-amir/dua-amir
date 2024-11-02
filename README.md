@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @dua-amir
+- 👀 I’m interested in digital marketing, web development, macine learning and mentoring youth to earn from home.
+- 🌱 I’m currently learning about machine learning algorithms.
+- 💞️ I’m looking to collaborate on projects related to computer science students and educational platforms.
+- 📫 You can reach me at [duaamir4211@gmail.com](mailto:your-email@example.com) or connect with me on LinkedIn.
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I’m good at crafting and making handmade bouquets of chocolate and flowers!
