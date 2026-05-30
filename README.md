@@ -1,9 +1,9 @@
 # Hi, I'm Dua Amir 
 
-### Software Engineer | AI & Data Science Enthusiast
+### Software Engineer - AI & Data Science Enthusiast
 An ambitious Final-Year Computer Science student and Software Engineer specializing in **Machine Learning**, **MLOps pipelines**, and **Scalable Backend/ERP Development**. I love bridging the gap between intelligent data-driven models and robust, real-world software solutions.
 
-## 🛠️ Technical Toolkit
+## Technical Toolkit
 
 | Category | Technologies & Tools |
 | :--- | :--- |
@@ -15,7 +15,7 @@ An ambitious Final-Year Computer Science student and Software Engineer specializ
 ## Current Focus & Activities
 
 - **Learning & Refining:** Designing advanced machine learning algorithms and automating continuous deployment pipelines for ML models.
-- **💼 Industry Experience:** - Building an **AQI (Air Quality Index) Predictor** and optimizing MLOps workflows as a Data Science Intern at **10Pearls**.
+- **Industry Experience:** - Building an **AQI (Air Quality Index) Predictor** and optimizing MLOps workflows as a Data Science Intern at **10Pearls**.
   - Developing customized module business logic and optimizing workflows as a Software Engineer at **Azm Development**.
 - **Collaboration Interests:** I'm eager to collaborate on digital marketing automation, open-source educational platforms, computer science student initiatives, and tech that mentors youth to unlock home-based income streams.
 
@@ -44,7 +44,7 @@ An ambitious Final-Year Computer Science student and Software Engineer specializ
 - **Pronouns:** she/her
 - **Fun Fact:** When I am not training models or configuring ERP business logic, I enjoy crafting and building beautiful, intricate handmade bouquets of chocolates and flowers! 
 
-## 📬 Let's Connect!
+## Let's Connect!
 
 - **Email:** [duaamir4211@gmail.com](mailto:duaamir4211@gmail.com) 
 - **LinkedIn:** [linkedin.com/in/dua-amir]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/dua-amir-82006a290/)) 
