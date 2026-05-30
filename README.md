@@ -47,4 +47,4 @@ An ambitious Final-Year Computer Science student and Software Engineer specializ
 ## Let's Connect!
 
 - **Email:** [duaamir4211@gmail.com](mailto:duaamir4211@gmail.com) 
-- **LinkedIn:** [linkedin.com/in/dua-amir]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/dua-amir-82006a290/)) 
+- **LinkedIn:** [linkedin.com/in/dua-amir-82006a290/](https://linkedin.com/in/dua-amir-82006a290/) 
