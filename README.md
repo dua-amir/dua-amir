@@ -21,7 +21,7 @@
 
 ### 🧬 Who I Am
 
-```typescript
+
 const duaAmir = {
   title: "Software Engineer & Fresh CS Graduate",
   stack: {
@@ -40,7 +40,6 @@ const duaAmir = {
   status: "91st Percentile — National Skill Competency Test (NSCT), April 2026",
   openTo: ["Software Engineering roles", "AI/ML Engineering", "Backend Engineering", "Collaborations"],
 };
-```
 
 ---
 
