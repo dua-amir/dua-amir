@@ -46,7 +46,7 @@ const duaAmir = {
 
 ### 🚀 Featured Projects
 
-#### 🥗 NutriPK — AI-Powered Pakistani Food Analyzer
+#### 🥗 NutriPK: AI-Powered Pakistani Food Analyzer
 Cross-platform mobile app using deep learning to recognize and analyze nutritional metrics of native Pakistani cuisines. *(Private repository)*
 
 | Layer | Technology |
@@ -56,14 +56,11 @@ Cross-platform mobile app using deep learning to recognize and analyze nutrition
 | Database | MongoDB |
 | AI/ML | Deep Learning Frameworks (Custom Vision Models) |
 
-🔒 Private Repo — Code access on request
+🔒 Private Repo: Code access on request
 
 ---
 
-#### 🌫️ AQI-predictore — Air Quality Index Predictor
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dua-amir&repo=AQI-predictore&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" />
-</p>
+#### 🌫️ AQI-predictore: Air Quality Index Predictor
 
 Time-series forecasting system predicting Air Quality Index, with automated CI/CD model deployment pipelines using GitHub Actions.
 
@@ -77,10 +74,7 @@ Time-series forecasting system predicting Air Quality Index, with automated CI/C
 
 ---
 
-#### 📁 CaseEase — Case Management System
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dua-amir&repo=CaseEase&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" />
-</p>
+#### 📁 CaseEase: Case Management System
 
 Relational system for secure, organizational case tracking, fully deployed on PythonAnywhere.
 
@@ -94,10 +88,7 @@ Relational system for secure, organizational case tracking, fully deployed on Py
 
 ---
 
-#### 💬 StudyBud — Study Rooms & Discussion Platform
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dua-amir&repo=StudyBud&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" />
-</p>
+#### 💬 StudyBud: Study Rooms & Discussion Platform
 
 A platform where users create and join study rooms/classroom groups to hold discussions and learn together in topic-based communities.
 
@@ -134,18 +125,7 @@ A platform where users create and join study rooms/classroom groups to hold disc
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dua-amir&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dua-amir&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=dua-amir&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" />
-</p>
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dua-amir&theme=nord&no-frame=true&no-bg=true&column=7" />
 </p>
 
 ### 📈 Contribution Activity
