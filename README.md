@@ -1,50 +1,172 @@
-# Hi, I'm Dua Amir 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Dua%20Amir&fontSize=50&fontColor=1a1a2e&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20CS%20Graduate&descAlignY=55&descSize=18" />
+</p>
 
-### Software Engineer - AI & Data Science Enthusiast
-An ambitious Final-Year Computer Science student and Software Engineer specializing in **Machine Learning**, **MLOps pipelines**, and **Scalable Backend/ERP Development**. I love bridging the gap between intelligent data-driven models and robust, real-world software solutions.
+<p align="center">
+  <a href="https://github.com/dua-amir">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+scalable+Python%2FDjango+systems;Automating+MLOps+pipelines+end-to-end;Training+deep+learning+vision+models;Architecting+full-stack+MERN+applications;Open+to+new+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
-## Technical Toolkit
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=briefcase&logoColor=1a1a2e&labelColor=1a1a2e" />
+</p>
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **AI / Data Science / MLOps** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F61?style=flat-square) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-8A2BE2?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
-| **Backend & ERP** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Odoo](https://img.shields.io/badge/Odoo_16-714B67?style=flat-square&logo=odoo&logoColor=white) |
-| **Frontend & Mobile** | ![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **Databases & DevOps** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dua-amir&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/dua-amir?style=for-the-badge&color=7dd3fc&labelColor=1a1a2e&logo=github" />
+</p>
 
-## Current Focus & Activities
+---
 
-- **Learning & Refining:** Designing advanced machine learning algorithms and automating continuous deployment pipelines for ML models.
-- **Industry Experience:** - Building an **AQI (Air Quality Index) Predictor** and optimizing MLOps workflows as a Data Science Intern at **10Pearls**.
-  - Developing customized module business logic and optimizing workflows as a Software Engineer at **Azm Development**.
-- **Collaboration Interests:** I'm eager to collaborate on digital marketing automation, open-source educational platforms, computer science student initiatives, and tech that mentors youth to unlock home-based income streams.
+### 🧬 Who I Am
 
-## Featured Projects
+```typescript
+const duaAmir = {
+  title: "Software Engineer & Fresh CS Graduate",
+  stack: {
+    aiData: ["Machine Learning", "MLOps Pipelines", "Deep Learning", "Image Recognition", "Feature Engineering"],
+    languagesBackend: ["Python (Django)", "JavaScript (Node.js)", "SQL (MySQL)", "C++", "PHP"],
+    frontendMobile: ["React.js", "React Native", "Tailwind CSS", "Bootstrap", "HTML5", "CSS3"],
+    toolsCloud: ["AWS", "Docker", "Jenkins (CI/CD)", "Git/GitHub Actions", "Odoo 16", "Jira", "Trello"],
+  },
+  launchedProjects: ["NutriPK", "AQI-predictore", "CaseEase", "StudyBud"],
+  certifications: [
+    "ChatGPT Prompt Engineering for Developers – DeepLearning.AI",
+    "Programming for Data Science – University of Leeds (Coursera)",
+    "Intro to Data Analytics & Exploratory Data Analysis – IBM",
+    "Foundations of Project Management – Google",
+  ],
+  status: "91st Percentile — National Skill Competency Test (NSCT), April 2026",
+  openTo: ["Software Engineering roles", "AI/ML Engineering", "Backend Engineering", "Collaborations"],
+};
+```
 
-### [NutriPK: AI-Powered Pakistani Food Analyzer](https://github.com/dua-amir/NutriPK) *(Final Year Project)*
-* A cross-platform mobile application utilizing **Deep Learning image recognition** to analyze nutritional values of traditional local cuisine.
-* **Stack:** React Native, Python Backend, MongoDB, Custom Deep Learning Models.
+---
 
-### [CaseEase: Case Management System](https://github.com/yourusername/CaseEase)
-* A comprehensive, web-based system engineered for streamlined organizational case tracking.
-* **Stack:** Python, Django, hosted live on PythonAnywhere.
+### 🚀 Featured Projects
 
-### [TaqwaTrack](https://github.com/yourusername/TaqwaTrack)
-* A modern lifestyle and spiritual tracking application featuring real-time data sync.
-* **Stack:** React Native, Firebase integration.
+#### 🥗 NutriPK — AI-Powered Pakistani Food Analyzer
+Cross-platform mobile app using deep learning to recognize and analyze nutritional metrics of native Pakistani cuisines. *(Private repository)*
 
-## Achievements & Education
+| Layer | Technology |
+|---|---|
+| Mobile | React Native |
+| Backend | Python |
+| Database | MongoDB |
+| AI/ML | Deep Learning Frameworks (Custom Vision Models) |
 
-- **91st Percentile** in the National Skill Competency Test (NSCT), April 2026.
-- **BS in Computer Science** - Riphah International University (CGPA: 3.91/4.0).
-- Certified by DeepLearning.AI (*ChatGPT Prompt Engineering*), University of Leeds (*Programming for Data Science*), and IBM (*Data Analytics & EDA*).
+🔒 Private Repo — Code access on request
 
-## Beyond the Code
+---
 
-- **Pronouns:** she/her
-- **Fun Fact:** When I am not training models or configuring ERP business logic, I enjoy crafting and building beautiful, intricate handmade bouquets of chocolates and flowers! 
+#### 🌫️ AQI-predictore — Air Quality Index Predictor
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dua-amir&repo=AQI-predictore&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" />
+</p>
 
-## Let's Connect!
+Time-series forecasting system predicting Air Quality Index, with automated CI/CD model deployment pipelines using GitHub Actions.
 
-- **Email:** [duaamir4211@gmail.com](mailto:duaamir4211@gmail.com) 
-- **LinkedIn:** [linkedin.com/in/dua-amir-82006a290/](https://linkedin.com/in/dua-amir-82006a290/) 
+| Layer | Technology |
+|---|---|
+| ML/Forecasting | Machine Learning (Time-Series) |
+| Automation | GitHub Actions (CI/CD) |
+| Data Pipelines | Automated Backfill & Schema Validation |
+
+🔗 [Code](https://github.com/dua-amir/AQI-predictore)
+
+---
+
+#### 📁 CaseEase — Case Management System
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dua-amir&repo=CaseEase&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" />
+</p>
+
+Relational system for secure, organizational case tracking, fully deployed on PythonAnywhere.
+
+| Layer | Technology |
+|---|---|
+| Backend | Python (Django) |
+| Database | Relational (SQL) |
+| Deployment | PythonAnywhere |
+
+🔗 [Code](https://github.com/dua-amir/CaseEase)
+
+---
+
+#### 💬 StudyBud — Study Rooms & Discussion Platform
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dua-amir&repo=StudyBud&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" />
+</p>
+
+A platform where users create and join study rooms/classroom groups to hold discussions and learn together in topic-based communities.
+
+| Layer | Technology |
+|---|---|
+| Backend | Python (Django) |
+| Frontend | HTML5, CSS3 |
+| Database | SQL |
+
+🔗 [Code](https://github.com/dua-amir/StudyBud)
+
+---
+
+### 🛠️ Tech Stack
+
+**AI & Data Science**
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
+
+**Languages & Backend**
+
+<img src="https://skillicons.dev/icons?i=python,django,nodejs,mysql,cpp,php" />
+
+**Frontend & Mobile**
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css" />
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,git,githubactions,jira" />
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dua-amir&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dua-amir&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dua-amir&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" />
+</p>
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dua-amir&theme=nord&no-frame=true&no-bg=true&column=7" />
+</p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dua-amir&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff&bg_color=0d1117" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dua-amir-82006a290/">
+    <img src="https://img.shields.io/badge/LinkedIn-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=1a1a2e&labelColor=1a1a2e" />
+  </a>
+  <a href="mailto:duaamir4211@gmail.com">
+    <img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=1a1a2e&labelColor=1a1a2e" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer&animation=twinkling" />
+</p>
